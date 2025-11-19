@@ -1,3 +1,5 @@
+Binita Majumder – Analytics & Data Projects
+
 Hello, I am Binita Majumder
 
 I have an academic background in Tourism and Hospitality Management, supported by a Bachelor’s degree in Accounting. Over time, I’ve developed a strong interest in data-driven work, especially through my role as an Operations Executive at Shenzhen Shangyu Co., Ltd. My experience in operations, reporting, and process coordination has strengthened my analytical mindset and my ability to work with operational data with accuracy and clarity. 
