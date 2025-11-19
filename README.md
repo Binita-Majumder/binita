@@ -12,17 +12,17 @@ In my free time, I enjoy exploring new tools and improving my skills in analytic
 
 Projects completed during my 3-day Data Analytics Masterclass:
 
-Data Analysis Project on Tableau Public:
+Interactive Data Analysis with Tableau Public:
 Tableau Assignment (day 2 Class) | Tableau Public
 Assignment Tableau 2 | Tableau Public
 Tableau Assignment(day 3) | Tableau Public
 
-Data Analysis Project on Power BI:
+Power BI Data Analysis Project:
 ![Assignment Power BI (2)](https://github.com/user-attachments/assets/effae6a2-083e-4d39-af6d-befcfb1391c4)
 ![Assignment Power BI (1)](https://github.com/user-attachments/assets/b4950c59-3cf2-44c0-9622-f3f64484d35f)
 ![Assignment Power BI (3)](https://github.com/user-attachments/assets/ddfa0c14-3939-467e-bcad-5e4805fec5dd)
 
-Assignment Data Analysis Project:
+Project Assignment on Data Analysis:
 [Assignment from Binita Majumder.pdf](https://github.com/user-attachments/files/23633615/Assingment.from.Binita.Majumder.pdf)
 
 My Medium Profile Link: https://medium.com/@binitamajumder27
