@@ -5,7 +5,6 @@ Recently, I expanded my data skills further by completing a 3-day data analytics
 In my free time, I enjoy exploring new tools and improving my skills in analytics and reporting.
 
 Projects completed during my 3-day Data Analytics Masterclass:
-
 Data Analysis Project on Tableau Public:
 Tableau Assignment (day 2 Class) | Tableau Public
 Assignment Tableau 2 | Tableau Public
