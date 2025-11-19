@@ -24,9 +24,12 @@ Assignment Data Analysis Project:
 [Assignment from Binita Majumder.pdf](https://github.com/user-attachments/files/23633615/Assingment.from.Binita.Majumder.pdf)
 
 My Medium Profile Link: https://medium.com/@binitamajumder27
+
 My Blog/Article on Medium Profile: https://medium.com/@binitamajumder27/sales-insights-report-7b0ccbf55374
+
 My GitLab Profile Link: https://gitlab.com/binitamajumder27 
 
 My LinkedIn Profile: https://www.linkedin.com/in/binita-majumder-01january1995
+
 My CV: [Binita Majumder CV.pdf](https://github.com/user-attachments/files/23633766/Binita.Majumder.CV.pdf)
 
